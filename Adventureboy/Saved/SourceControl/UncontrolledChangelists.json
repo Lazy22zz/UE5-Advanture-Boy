@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Material/Character_Eyes.uasset",
+				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Material/Character_Glove.uasset",
+				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Material/Character_Hair.uasset",
+				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Material/Character_Shirt_Blue.uasset",
+				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Material/Character_Shirt_Edge.uasset",
+				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Material/Character_Shirt_Red.uasset",
+				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Material/Character_Shoes_Black.uasset",
+				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Material/Character_Shoes_Yellow.uasset",
+				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Material/Character_Shorts_Black.uasset",
+				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Material/Character_Skin.uasset",
+				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Animation/Character_Anim_Character_Attack.uasset",
+				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Animation/Character_Anim_Character_HitReact.uasset",
+				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Animation/Character_Anim_Character_Idle.uasset",
+				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Animation/Character_Anim_Character_Jump.uasset",
+				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Animation/Character_Anim_Character_Jump_Idle.uasset",
+				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Animation/Character_Anim_Character_Jump_Land.uasset",
+				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Animation/Character_Anim_Character_Run.uasset",
+				"D:/UE5-Advanture Boy/Adventureboy/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/VS/XX060WNO6GEZU5BZQCLZPP.uasset",
+				"D:/UE5-Advanture Boy/Adventureboy/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/AY/KLCRMXKI9WR2P0GDY96C36.uasset",
+				"D:/UE5-Advanture Boy/Adventureboy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Character_PhysicsAsset.uasset",
+				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Character_Skeleton.uasset",
+				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Character.uasset"
+			]
+		}
+	]
+}
