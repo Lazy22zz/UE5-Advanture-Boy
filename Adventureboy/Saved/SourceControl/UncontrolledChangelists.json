@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UE5-Advanture-Boy/Adventureboy/Content/Characters/AnimeCharacter/Blueprint/Character_BS.uasset",
+				"D:/UE5-Advanture-Boy/Adventureboy/Content/Characters/AnimeCharacter/Blueprint/Character_Running_BS.uasset",
+				"D:/UE5-Advanture-Boy/Adventureboy/Content/Characters/AnimeCharacter/Blueprint/Character_ANS.uasset",
+				"D:/UE5-Advanture-Boy/Adventureboy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Material/Character_Eyes.uasset",
 				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Material/Character_Glove.uasset",
 				"D:/UE5-Advanture Boy/Adventureboy/Content/Characters/AnimeCharacter/Material/Character_Hair.uasset",
